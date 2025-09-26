@@ -1,0 +1,6 @@
+{
+    "phytormc.network.scoreboard.title": "PhytorMC",
+    "phytormc.network.scoreboard.subtitle": "PhytorMC Subtitle",
+    "phytormc.network.test_locale.text": "This is a test locale text. {phytormc.network.test_locale.text2}",
+    "phytormc.network.test_locale.text2": "This is a test locale text 2"
+}
