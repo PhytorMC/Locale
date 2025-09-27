@@ -10,7 +10,7 @@
     "phytormc.network.notification.voicechat": "<phytormc.color.gradient><bold>VOICE CHAT » <reset><white>To keep our players, including yourself engaged with other players. We recommend that you install <hover:show_text:'<aqua>Click to download Simple Voice Chat'><click:open_url:https://modrinth.com/plugin/simple-voice-chat/versions?g=1.21.4&l=fabric><aqua><underlined>Simple Voice Chat</click></hover><white>.",
     "phytormc.network.notification.voicechat.verification": "<phytormc.color.gradient><bold>VOICE CHAT » <reset><white>Thank you for using <aqua>Simple Voice Chat<reset>! To moderate our players, we require you to verify your account. Please join our <hover:show_text:'<aqua>Click to join our discord'><click:open_url:https://discord.gg/jGbxreEMCv><aqua><underlined>discord</click></hover><white> to start the verification process.",
 
-    "phytormc.network.scoreboard.title": "<phytormc.color.gradient><bold>PHYTOR<reset><gray>:<white> <%phytor_locale:phytormc.network.%phytor_game_type%.name%>",
+    "phytormc.network.scoreboard.title": "<phytormc.color.gradient><bold>PHYTOR<reset><gray>:<white> <phytormc.network.%phytor_game_type%.name>",
 
     
     "phytormc.network.test_locale.text": "This is a test locale text. <phytormc.network.test_locale.text2>",
