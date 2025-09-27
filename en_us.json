@@ -1,6 +1,15 @@
 {
-    "phytormc.network.scoreboard.title": "PhytorMC",
-    "phytormc.network.scoreboard.subtitle": "PhytorMC Subtitle",
+    "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
+
+    "phytormc.network.royale.name": "Phytor Royale",
+    "phytormc.network.duels.name": "Phytor Duels",
+    "phytormc.network.practice.name": "Phytor Practice",
+    "phytormc.network.sg.name": "Phytor Survival Games",
+    "phytormc.network.tales.name": "Tales of Phytor",
+
+    "phytormc.network.scoreboard.title": "<phytormc.color.gradient>PHYTOR<reset><gray>:<white> <phytormc.network.%phytor_game_type%.name>",
+
+    
     "phytormc.network.test_locale.text": "This is a test locale text. <phytormc.network.test_locale.text2>",
     "phytormc.network.test_locale.text2": "This is a test locale text 2"
 }
