@@ -42,6 +42,6 @@
     "phytormc.royale.leaderboard.losses": "<white>Losses: {phytormc.color.gradient}%phytor_royale_losses%",
     "phytormc.royale.leaderboard.kills": "<white>Kills: {phytormc.color.gradient}%phytor_royale_kills%",
     "phytormc.royale.leaderboard.level": "<white>Level: {phytormc.color.gradient}%phytor_royale_levels%",
-    "phytormc.royale.leaderboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%",
+    "phytormc.royale.leaderboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%"
 
 }
