@@ -1,13 +1,13 @@
 {   
-    "phytormc.unicode.level.progress.start.full": "\uA001",
-    "phytormc.unicode.level.progress.start.half": "\uA002",
-    "phytormc.unicode.level.progress.start.empty": "\uA003",
-    "phytormc.unicode.level.progress.middle.full": "\uA004",
-    "phytormc.unicode.level.progress.middle.half": "\uA005",
-    "phytormc.unicode.level.progress.middle.empty": "\uA006",
-    "phytormc.unicode.level.progress.end.full": "\uA007",
-    "phytormc.unicode.level.progress.end.half": "\uA008",
-    "phytormc.unicode.level.progress.end.empty": "\uA009",
+    "phytormc.unicode.level.progress.start.full": "<font:lodestone:ui>\uA001</font>",
+    "phytormc.unicode.level.progress.start.half": "<font:lodestone:ui>\uA002</font>",
+    "phytormc.unicode.level.progress.start.empty": "<font:lodestone:ui>\uA003</font>",
+    "phytormc.unicode.level.progress.middle.full": "<font:lodestone:ui>\uA004</font>",
+    "phytormc.unicode.level.progress.middle.half": "<font:lodestone:ui>\uA005</font>",
+    "phytormc.unicode.level.progress.middle.empty": "<font:lodestone:ui>\uA006</font>",
+    "phytormc.unicode.level.progress.end.full": "<font:lodestone:ui>\uA007</font>",
+    "phytormc.unicode.level.progress.end.half": "<font:lodestone:ui>\uA008</font>",
+    "phytormc.unicode.level.progress.end.empty": "<font:lodestone:ui>\uA009</font>",
     
     "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
 
