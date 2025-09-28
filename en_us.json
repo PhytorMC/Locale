@@ -1,7 +1,13 @@
-{
-    "phytormc.unicode.level.progress.full": "█",
-    "phytormc.unicode.level.progress.half": "⬡",
-    "phytormc.unicode.level.progress.empty": "⬡",
+{   
+    "phytormc.unicode.level.progress.start.full": "\uA001",
+    "phytormc.unicode.level.progress.start.half": "\uA002",
+    "phytormc.unicode.level.progress.start.empty": "\uA003",
+    "phytormc.unicode.level.progress.middle.full": "\uA004",
+    "phytormc.unicode.level.progress.middle.half": "\uA005",
+    "phytormc.unicode.level.progress.middle.empty": "\uA006",
+    "phytormc.unicode.level.progress.end.full": "\uA007",
+    "phytormc.unicode.level.progress.end.half": "\uA008",
+    "phytormc.unicode.level.progress.end.empty": "\uA009",
     
     "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
 
