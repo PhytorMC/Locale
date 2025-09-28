@@ -10,16 +10,18 @@
     "phytormc.network.notification.voicechat.verification": "{phytormc.color.gradient}<bold>VOICE CHAT » <reset><white>Thank you for using <aqua>Simple Voice Chat<reset>! To moderate our players, we require you to verify your account. Please join our <hover:show_text:'<aqua>Click to join our discord'><click:open_url:https://discord.gg/jGbxreEMCv><aqua><underlined>discord</click></hover><white> to start the verification process.",
 
     "phytormc.network.scoreboard.title": "{phytormc.color.gradient}<bold>%phytor_game_name%",
-    "phytormc.network.scoreboard.gems": "<white>Gems:<white> {phytormc.color.gradient}%phytor_player_kills%",
+    "phytormc.network.scoreboard.battle_pass.title": "<white>Gems:<white> {phytormc.color.gradient}%phytor_player_kills%",
+    "phytormc.network.scoreboard.battle_pass.progression_bar": "<white>%phytor_player_battle_pass_progression%",
+    "phytormc.network.scoreboard.gems": "<white>Gems:<white> {phytormc.color.gradient}%phytor_player_gems%",
     "phytormc.network.scoreboard.ip": "<font:lodestone:retro><phytormc.color.gradient>PHYTOR.GG",
     
     "phytormc.royale.name": "Phytor Royale",
-    "phytormc.royale.scoreboard.deaths": "<white>Deaths: {phytormc.color.gradient}%phytor_royale_deaths%",
-    "phytormc.royale.scoreboard.coins": "<white>Royale Coins: {phytormc.color.gradient}%phytor_royale_coins%",
-    "phytormc.royale.scoreboard.wins": "<white>Wins: {phytormc.color.gradient}%phytor_royale_wins%",
-    "phytormc.royale.scoreboard.losses": "<white>Losses: {phytormc.color.gradient}%phytor_royale_losses%",
-    "phytormc.royale.scoreboard.kills": "<white>Kills: {phytormc.color.gradient}%phytor_royale_kills%",
-    "phytormc.royale.scoreboard.level": "<white>Level: {phytormc.color.gradient}%phytor_royale_levels%",
-    "phytormc.royale.scoreboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%"
+    "phytormc.royale.leaderboard.deaths": "<white>Deaths: {phytormc.color.gradient}%phytor_royale_deaths%",
+    "phytormc.royale.leaderboard.coins": "<white>Royale Coins: {phytormc.color.gradient}%phytor_royale_coins%",
+    "phytormc.royale.leaderboard.wins": "<white>Wins: {phytormc.color.gradient}%phytor_royale_wins%",
+    "phytormc.royale.leaderboard.losses": "<white>Losses: {phytormc.color.gradient}%phytor_royale_losses%",
+    "phytormc.royale.leaderboard.kills": "<white>Kills: {phytormc.color.gradient}%phytor_royale_kills%",
+    "phytormc.royale.leaderboard.level": "<white>Level: {phytormc.color.gradient}%phytor_royale_levels%",
+    "phytormc.royale.leaderboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%"
 
 }
