@@ -1,4 +1,8 @@
 {
+    "phytormc.unicode.level.progress.full": "█",
+    "phytormc.unicode.level.progress.half": "⬡",
+    "phytormc.unicode.level.progress.empty": "⬡",
+    
     "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
 
     "phytormc.network.duels.name": "Phytor Duels",
@@ -22,6 +26,8 @@
     "phytormc.royale.leaderboard.losses": "<white>Losses: {phytormc.color.gradient}%phytor_royale_losses%",
     "phytormc.royale.leaderboard.kills": "<white>Kills: {phytormc.color.gradient}%phytor_royale_kills%",
     "phytormc.royale.leaderboard.level": "<white>Level: {phytormc.color.gradient}%phytor_royale_levels%",
-    "phytormc.royale.leaderboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%"
+    "phytormc.royale.leaderboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%",
+
+    "phytormc.test.text_transformations": "Welcome to <uppercase>phytor</uppercase>! Your <capitalize>battle pass</capitalize> level is <lowercase>AMAZING</lowercase>!"
 
 }
