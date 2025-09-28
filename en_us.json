@@ -8,6 +8,16 @@
     "phytormc.unicode.level.progress.end.full": "<font:lodestone:ui>\uA007</font>",
     "phytormc.unicode.level.progress.end.half": "<font:lodestone:ui>\uA008</font>",
     "phytormc.unicode.level.progress.end.empty": "<font:lodestone:ui>\uA009</font>",
+
+    "phytormc.unicode.phytor_logo_blue": "<font:lodestone:ui>\uB001</font>",
+    "phytormc.unicode.phytor_logo_blue.small": "<font:lodestone:ui>\uB004</font>",
+    "phytormc.unicode.phytor_logo_orange": "<font:lodestone:ui>\uB002</font>",
+    "phytormc.unicode.phytor_logo_orange.small": "<font:lodestone:ui>\uB005</font>",
+    "phytormc.unicode.phytor_logo_purple": "<font:lodestone:ui>\uB003</font>",
+    "phytormc.unicode.phytor_logo_purple.small": "<font:lodestone:ui>\uB006</font>",
+
+    "phytormc.unicode.phytor_gem": "<font:lodestone:ui>\uC001</font>",
+    "phytormc.unicode.phytor_gem.small": "<font:lodestone:ui>\uC002</font>",
     
     "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
 
@@ -19,10 +29,10 @@
     "phytormc.network.notification.voicechat": "{phytormc.color.gradient}<bold>VOICE CHAT » <reset><white>To keep our players, including yourself engaged with other players. We recommend that you install <hover:show_text:'<aqua>Click to download Simple Voice Chat'><click:open_url:https://modrinth.com/plugin/simple-voice-chat/versions?g=1.21.4&l=fabric><aqua><underlined>Simple Voice Chat</click></hover><white>.",
     "phytormc.network.notification.voicechat.verification": "{phytormc.color.gradient}<bold>VOICE CHAT » <reset><white>Thank you for using <aqua>Simple Voice Chat<reset>! To moderate our players, we require you to verify your account. Please join our <hover:show_text:'<aqua>Click to join our discord'><click:open_url:https://discord.gg/jGbxreEMCv><aqua><underlined>discord</click></hover><white> to start the verification process.",
 
-    "phytormc.network.scoreboard.title": "{phytormc.color.gradient}<bold>%phytor_game_name%",
-    "phytormc.network.scoreboard.battle_pass.title": "<white>Battle Pass Level:<white> {phytormc.color.gradient}%phytor_player_battle_pass_level%",
+    "phytormc.network.scoreboard.title": "{phytormc.color.gradient}<bold><uppercase>PHYTOR NETWORK</uppercase></bold>",
+    "phytormc.network.scoreboard.battle_pass.title": "<white>Battle Pass Level:<white> {phytormc.color.gradient}%phytor_player_battle_pass_level% <dark_gray>(%phytor_player_battle_pass_xp% XP)</dark_gray>",
     "phytormc.network.scoreboard.battle_pass.progression_bar": "<white>%phytor_player_battle_pass_progression%",
-    "phytormc.network.scoreboard.gems": "<white>Gems:<white> {phytormc.color.gradient}%phytor_player_gems%",
+    "phytormc.network.scoreboard.gems": "<white>{phytormc.unicode.phytor_gem.small} Gems:<white> {phytormc.color.gradient}%phytor_player_gems%",
     "phytormc.network.scoreboard.ip": "<font:lodestone:retro>{phytormc.color.gradient}PHYTOR.GG",
     
     "phytormc.royale.name": "Phytor Royale",
