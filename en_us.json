@@ -13,7 +13,7 @@
     "phytormc.network.scoreboard.battle_pass.title": "<white>Battle Pass Level:<white> {phytormc.color.gradient}%phytor_player_battle_pass_level%",
     "phytormc.network.scoreboard.battle_pass.progression_bar": "<white>%phytor_player_battle_pass_progression%",
     "phytormc.network.scoreboard.gems": "<white>Gems:<white> {phytormc.color.gradient}%phytor_player_gems%",
-    "phytormc.network.scoreboard.ip": "<font:lodestone:retro><phytormc.color.gradient>PHYTOR.GG",
+    "phytormc.network.scoreboard.ip": "<font:lodestone:retro>{phytormc.color.gradient}PHYTOR.GG",
     
     "phytormc.royale.name": "Phytor Royale",
     "phytormc.royale.leaderboard.deaths": "<white>Deaths: {phytormc.color.gradient}%phytor_royale_deaths%",
