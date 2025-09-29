@@ -47,7 +47,7 @@
     "phytormc.network.scoreboard.title": "{phytormc.color.gradient}<bold>PHYTOR NETWORK</bold>",
     "phytormc.network.scoreboard.battle_pass.title": "<white>Battle Pass:<white> {phytormc.color.gradient}Lvl %phytor_player_battle_pass_level% <dark_gray>(%phytor_player_battle_pass_xp% XP)</dark_gray>",
     "phytormc.network.scoreboard.battle_pass.progression_bar": "<white>%phytor_player_battle_pass_progression%",
-    "phytormc.network.scoreboard.name": "<white>{phytormc.unicode.name.small} Name:<white> {phytormc.color.gradient}%phytor_player_rank%",
+    "phytormc.network.scoreboard.name": "<white>{phytormc.unicode.phytor_logo_blue.small} Name:<white> {phytormc.color.gradient}%phytor_player_rank%",
     "phytormc.network.scoreboard.gems": "<white>{phytormc.unicode.phytor_gem.small} Phytor Gems:<white> {phytormc.color.gradient}%phytor_player_gems%",
     "phytormc.network.scoreboard.ip": "<font:lodestone:retro>{phytormc.color.gradient}PHYTOR.GG",
     
