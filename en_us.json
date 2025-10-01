@@ -9,6 +9,9 @@
     "phytormc.unicode.level.progress.end.half": "<font:lodestone:ui>\uA008</font>",
     "phytormc.unicode.level.progress.end.empty": "<font:lodestone:ui>\uA007</font>",
 
+    "phytormc.unicode.gui.cosmetic.menu": "",
+    "phytormc.unicode.gui.cosmetic.browser": "",
+
     "phytormc.unicode.ranks.acolyte": "<font:lodestone:ui>\uD001</font>",
     "phytormc.unicode.ranks.paladin": "<font:lodestone:ui>\uD002</font>",
     "phytormc.unicode.ranks.monarch": "<font:lodestone:ui>\uD003</font>",
@@ -63,6 +66,19 @@
     "phytormc.royale.leaderboard.kills": "<white>Kills: {phytormc.color.gradient}%phytor_royale_kills%",
     "phytormc.royale.leaderboard.level": "<white>Level: {phytormc.color.gradient}%phytor_royale_levels%",
     "phytormc.royale.leaderboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%",
+
+    "phytormc.items.cosmetic_hotbar.name": "Cosmetic",
+    "phytormc.items.cosmetic_hotbar.lore": "<gray>Cosmetic Lore",
+    "phytormc.items.leave_item.name": "Leave Game",
+    "phytormc.items.leave_item.lore": "<gray>Leave Game",
+    "phytormc.items.quest_hotbar.name": "Quests",
+    "phytormc.items.quest_hotbar.lore": "<gray>Quests",
+    "phytormc.items.shop_hotbar.name": "Shop",
+    "phytormc.items.shop_hotbar.lore": "<gray>Shop",
+    "phytormc.items.game_selector_hotbar.name": "Game Selector",
+    "phytormc.items.game_selector_hotbar.lore": "<gray>Game Selector",
+    "phytormc.items.skins_hotbar.name": "Skins",
+    "phytormc.items.skins_hotbar.lore": "<gray>Skins",
 
     "phytormc.items.halo.name": "<gold>Apollo's Halo",
     "phytormc.items.halo.lore": "<gray>A halo that glows with the power of <gold>Apollo<gray>.<br><gray>When you wear this, you will be able to see the power of <gold>Apollo<gray>."
