@@ -37,8 +37,8 @@
     "phytormc.unicode.phytor_gem": "<font:phytor:ui>\uC001</font>",
     "phytormc.unicode.phytor_gem.small": "<font:phytor:ui>\uC002</font>",
 
-    "phytormc.unicode.equipped": "<font:phytor:ui>\uE001</font>",
-    "phytormc.unicode.unequipped": "<font:phytor:ui>\uE002</font>",
+    "phytormc.unicode.equipped": "<white><font:phytor:ui>\uE001</font></white>",
+    "phytormc.unicode.unequipped": "<white><font:phytor:ui>\uE002</font></white>",
     
     "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
 
