@@ -84,6 +84,7 @@
     "phytormc.gui.generic.shop.lore": "<gray>Shop Lore",
     "phytormc.gui.cosmetic.preview": "<yellow><bold>SHIFT-CLICK<reset><gray> to preview this cosmetic.",
     "phytormc.gui.cosmetic.browse": "<yellow><bold>LEFT-CLICK<reset><gray> to browse for a cosmetic.",
+    "phytormc.gui.cosmetic.replace": "<yellow><bold>LEFT-CLICK<reset><gray> to replace this cosmetic.",
     "phytormc.gui.cosmetic.equip": "<yellow><bold>LEFT-CLICK<reset><gray> to equip this cosmetic.",
     "phytormc.gui.cosmetic.unequip": "<yellow><bold>LEFT-CLICK<reset><gray> to unequip this cosmetic.",
     "phytormc.gui.cosmetic.unequip.shift": "<yellow><bold>SHIFT-CLICK<reset><gray> to unequip this cosmetic.",
