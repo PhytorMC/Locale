@@ -36,6 +36,9 @@
 
     "phytormc.unicode.phytor_gem": "<font:phytor:ui>\uC001</font>",
     "phytormc.unicode.phytor_gem.small": "<font:phytor:ui>\uC002</font>",
+
+    "phytormc.unicode.equipped": "<font:phytor:ui>\uE001</font>",
+    "phytormc.unicode.unequipped": "<font:phytor:ui>\uE002</font>",
     
     "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
 
@@ -74,6 +77,16 @@
     "phytormc.gui.skins.trident": "Trident Skin",
     "phytormc.gui.skins.mace": "Mace Skin",
     "phytormc.gui.skins.totem": "Totem Skin",
+
+    "phytormc.gui.generic.previous_page": "Previous Page",
+    "phytormc.gui.generic.next_page": "Next Page",
+    "phytormc.gui.generic.shop": "Shop",
+    "phytormc.gui.generic.shop.lore": "<gray>Shop Lore",
+    "phytormc.gui.cosmetic.preview": "<yellow><bold>SHIFT-CLICK<reset><gray> to preview this cosmetic.",
+    "phytormc.gui.cosmetic.browse": "<yellow><bold>LEFT-CLICK<reset><gray> to browse for a cosmetic.",
+    "phytormc.gui.cosmetic.equip": "<yellow><bold>LEFT-CLICK<reset><gray> to equip this cosmetic.",
+    "phytormc.gui.cosmetic.unequip": "<yellow><bold>LEFT-CLICK<reset><gray> to unequip this cosmetic.",
+    "phytormc.gui.cosmetic.unequip.shift": "<yellow><bold>SHIFT-CLICK<reset><gray> to unequip this cosmetic.",
 
     "phytormc.royale.name": "Phytor Royale",
     "phytormc.royale.leaderboard.deaths": "<white>Deaths: {phytormc.color.gradient}%phytor_royale_deaths%",
