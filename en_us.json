@@ -112,6 +112,6 @@
     "phytormc.items.skins_hotbar.lore": "<gray>Skins Lore",
 
     "phytormc.items.halo.name": "<gold>Apollo's Halo",
-    "phytormc.items.halo.lore": "<gray>A halo that glows with the power of <gold>Apollo<gray>.<br><gray>When you wear this, you will be able to see the power of <gold>Apollo<gray>."
+    "phytormc.items.halo.lore": "<gray>A halo that glows with the power of <gold>Apollo<gray>.<br><br><dark_gray>Part of the Apollo Cosmetic Collection."
 
 }
