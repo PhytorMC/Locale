@@ -9,9 +9,9 @@
     "phytormc.unicode.level.progress.end.half": "<font:phytor:ui>\uA008</font>",
     "phytormc.unicode.level.progress.end.empty": "<font:phytor:ui>\uA007</font>",
 
-    "phytormc.unicode.gui.cosmetic.menu": "<font:phytor:gui>\uA001</font>",
-    "phytormc.unicode.gui.cosmetic.locker": "<font:phytor:gui>\uA002</font>",
-    "phytormc.unicode.gui.cosmetic.browser": "<font:phytor:gui>\uA003</font>",
+    "phytormc.unicode.gui.cosmetic.menu": "<white><font:phytor:gui>\uA001</font></white>",
+    "phytormc.unicode.gui.cosmetic.locker": "<white><font:phytor:gui>\uA002</font></white>",
+    "phytormc.unicode.gui.cosmetic.browser": "<white><font:phytor:gui>\uA003</font></white>",
 
     "phytormc.unicode.ranks.acolyte": "<font:phytor:ui>\uD001</font>",
     "phytormc.unicode.ranks.paladin": "<font:phytor:ui>\uD002</font>",
