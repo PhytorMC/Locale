@@ -10,7 +10,7 @@
     "phytormc.unicode.level.progress.end.empty": "<font:phytor:ui>\uA007</font>",
 
     "phytormc.unicode.gui.cosmetic.menu": "<font:phytor:gui>\uA001</font>",
-    "phytormc.unicode.gui.cosmetic.locked": "<font:phytor:gui>\uA002</font>",
+    "phytormc.unicode.gui.cosmetic.locker": "<font:phytor:gui>\uA002</font>",
     "phytormc.unicode.gui.cosmetic.browser": "<font:phytor:gui>\uA003</font>",
 
     "phytormc.unicode.ranks.acolyte": "<font:phytor:ui>\uD001</font>",
