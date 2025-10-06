@@ -9,11 +9,21 @@
     "phytormc.unicode.level.progress.end.half": "<font:phytor:ui>\uA008</font>",
     "phytormc.unicode.level.progress.end.empty": "<font:phytor:ui>\uA007</font>",
 
+    "phytormc.unicode.battlepass.progress.start.full": "<font:phytor:ui>\uA010</font>",
+    "phytormc.unicode.battlepass.progress.start.half": "<font:phytor:ui>\uA011</font>",
+    "phytormc.unicode.battlepass.progress.start.empty": "<font:phytor:ui>\uA012</font>",
+    "phytormc.unicode.battlepass.progress.middle.full": "<font:phytor:ui>\uA013</font>",
+    "phytormc.unicode.battlepass.progress.middle.half": "<font:phytor:ui>\uA014</font>",
+    "phytormc.unicode.battlepass.progress.middle.empty": "<font:phytor:ui>\uA015</font>",
+    "phytormc.unicode.battlepass.progress.end.full": "<font:phytor:ui>\uA016</font>",
+    "phytormc.unicode.battlepass.progress.end.half": "<font:phytor:ui>\uA017</font>",
+    "phytormc.unicode.battlepass.progress.end.empty": "<font:phytor:ui>\uA018</font>",
+
     "phytormc.unicode.gui.cosmetic.menu": "<white><font:phytor:gui>\uA001</font></white>",
     "phytormc.unicode.gui.cosmetic.locker": "<white><font:phytor:gui>\uA002</font></white>",
     "phytormc.unicode.gui.cosmetic.browser": "<white><font:phytor:gui>\uA003</font></white>",
-    "phytormc.unicode.gui.cosmetic.battlepass": "<white><font:phytor:gui>\uA004</font></white>",
-    "phytormc.unicode.gui.cosmetic.battlepass_end": "<white><font:phytor:gui>\uA005</font></white>",
+    "phytormc.unicode.gui.battlepass": "<white><font:phytor:gui>\uA004</font></white>",
+    "phytormc.unicode.gui.battlepass.end": "<white><font:phytor:gui>\uA005</font></white>",
 
     "phytormc.unicode.ranks.acolyte": "<white><font:phytor:ui>\uD001</font></white>",
     "phytormc.unicode.ranks.paladin": "<white><font:phytor:ui>\uD002</font></white>",
