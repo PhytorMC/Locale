@@ -18,6 +18,7 @@
     "phytormc.unicode.battlepass.progress.end.full": "<font:phytor:ui>\uA016</font>",
     "phytormc.unicode.battlepass.progress.end.half": "<font:phytor:ui>\uA017</font>",
     "phytormc.unicode.battlepass.progress.end.empty": "<font:phytor:ui>\uA018</font>",
+    "phytormc.unicode.battlepass.progress.empty": "<font:phytor:ui>\uA019</font>",
 
     "phytormc.unicode.gui.cosmetic.menu": "<white><font:phytor:gui>\uA001</font></white>",
     "phytormc.unicode.gui.cosmetic.locker": "<white><font:phytor:gui>\uA002</font></white>",
