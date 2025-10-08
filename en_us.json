@@ -109,6 +109,8 @@
     "phytormc.gui.cosmetic.action.unequip": "<yellow><bold>LEFT-CLICK<reset><gray> to unequip this cosmetic.",
     "phytormc.gui.cosmetic.action.unequip.shift": "<yellow><bold>SHIFT-CLICK<reset><gray> to unequip this cosmetic.",
 
+    "phytormc.gui.battlepass.rewards": "{phytormc.color.gradient}Battle Pass Reward - Tier #<tier>",
+
     "phytormc.royale.name": "Phytor Royale",
     "phytormc.royale.leaderboard.deaths": "<white>Deaths: {phytormc.color.gradient}%phytor_royale_deaths%",
     "phytormc.royale.leaderboard.coins": "<white>Royale Coins: {phytormc.color.gradient}%phytor_royale_coins%",
