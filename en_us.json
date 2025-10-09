@@ -109,7 +109,11 @@
     "phytormc.gui.cosmetic.action.unequip": "<yellow><bold>LEFT-CLICK<reset><gray> to unequip this cosmetic.",
     "phytormc.gui.cosmetic.action.unequip.shift": "<yellow><bold>SHIFT-CLICK<reset><gray> to unequip this cosmetic.",
 
-    "phytormc.gui.battlepass.rewards": "{phytormc.color.gradient}Battle Pass Reward - Tier #<tier>",
+    "phytormc.gui.battlepass.rewards": "{phytormc.color.gradient}Tier #<tier> Reward",
+    "phytormc.gui.battlepass.remaining": "<gray>You need {phytormc.color.gradient}<remaining> <reset><gray>more XP to unlock this tier.",
+    "phytormc.gui.battlepass.unlocked": "<green>You've unlocked this tier!",
+    "phytormc.gui.battlepass.rewards.gems": "<gray>Receive {phytormc.color.gradient}<gems> Phytor Gems <reset><gray> when you unlock this tier.",
+    "phytormc.gui.battlepass.rewards.crates.common": "<gray>Receive a <white>Common Crate <gray>key that you can use to unlock a random <white>Common Cosmetic<gray>.",
 
     "phytormc.royale.name": "Phytor Royale",
     "phytormc.royale.leaderboard.deaths": "<white>Deaths: {phytormc.color.gradient}%phytor_royale_deaths%",
