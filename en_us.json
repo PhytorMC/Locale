@@ -22,7 +22,8 @@
 
     "phytormc.unicode.gui.cosmetic.locker": "<white><font:phytor:gui>\uA001</font></white>",
     "phytormc.unicode.gui.cosmetic.browser": "<white><font:phytor:gui>\uA002</font></white>",
-    "phytormc.unicode.gui.battlepass": "<white><font:phytor:gui>\uA004</font></white>",
+    "phytormc.unicode.gui.battlepass": "<white><font:phytor:gui>\uA003</font></white>",
+    "phytormc.unicode.gui.game_selector": "<white><font:phytor:gui>\uA004</font></white>",
 
     "phytormc.unicode.ranks.acolyte": "<white><font:phytor:ui>\uD001</font></white>",
     "phytormc.unicode.ranks.paladin": "<white><font:phytor:ui>\uD002</font></white>",
