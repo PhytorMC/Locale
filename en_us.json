@@ -1,4 +1,4 @@
-{   
+{
     "phytormc.unicode.level.progress.start.full": "<font:phytor:ui>\uA001</font>",
     "phytormc.unicode.level.progress.start.half": "<font:phytor:ui>\uA002</font>",
     "phytormc.unicode.level.progress.start.empty": "<font:phytor:ui>\uA003</font>",
@@ -8,7 +8,6 @@
     "phytormc.unicode.level.progress.end.full": "<font:phytor:ui>\uA008</font>",
     "phytormc.unicode.level.progress.end.half": "<font:phytor:ui>\uA007</font>",
     "phytormc.unicode.level.progress.end.empty": "<font:phytor:ui>\uA009</font>",
-
     "phytormc.unicode.battlepass.progress.start.full": "<font:phytor:ui>\uA010</font>",
     "phytormc.unicode.battlepass.progress.start.half": "<font:phytor:ui>\uA011</font>",
     "phytormc.unicode.battlepass.progress.start.empty": "<font:phytor:ui>\uA012</font>",
@@ -19,12 +18,10 @@
     "phytormc.unicode.battlepass.progress.end.half": "<font:phytor:ui>\uA017</font>",
     "phytormc.unicode.battlepass.progress.end.empty": "<font:phytor:ui>\uA018</font>",
     "phytormc.unicode.battlepass.progress.empty": "<font:phytor:ui>\uA019</font>",
-
     "phytormc.unicode.gui.cosmetic.locker": "<white><font:phytor:gui>\uA001</font></white>",
     "phytormc.unicode.gui.cosmetic.browser": "<white><font:phytor:gui>\uA002</font></white>",
     "phytormc.unicode.gui.battlepass": "<white><font:phytor:gui>\uA003</font></white>",
     "phytormc.unicode.gui.game_selector": "<white><font:phytor:gui>\uA004</font></white>",
-
     "phytormc.unicode.ranks.acolyte": "<white><font:phytor:ui>\uD001</font></white>",
     "phytormc.unicode.ranks.paladin": "<white><font:phytor:ui>\uD002</font></white>",
     "phytormc.unicode.ranks.monarch": "<white><font:phytor:ui>\uD003</font></white>",
@@ -39,45 +36,35 @@
     "phytormc.unicode.ranks.admin": "<white><font:phytor:ui>\uD012</font></white>",
     "phytormc.unicode.ranks.developer": "<white><font:phytor:ui>\uD013</font></white>",
     "phytormc.unicode.ranks.owner": "<white><font:phytor:ui>\uD014</font></white>",
-
     "phytormc.unicode.phytor_logo_blue": "<font:phytor:ui>\uB001</font>",
     "phytormc.unicode.phytor_logo_blue.small": "<font:phytor:ui>\uB004</font>",
     "phytormc.unicode.phytor_logo_orange": "<font:phytor:ui>\uB002</font>",
     "phytormc.unicode.phytor_logo_orange.small": "<font:phytor:ui>\uB005</font>",
     "phytormc.unicode.phytor_logo_purple": "<font:phytor:ui>\uB003</font>",
     "phytormc.unicode.phytor_logo_purple.small": "<font:phytor:ui>\uB006</font>",
-
     "phytormc.unicode.phytor_gem": "<font:phytor:ui>\uC001</font>",
     "phytormc.unicode.phytor_gem.small": "<font:phytor:ui>\uC002</font>",
-
     "phytormc.unicode.equipped": "<white><font:phytor:ui>\uE001</font></white>",
     "phytormc.unicode.unequipped": "<white><font:phytor:ui>\uE002</font></white>",
-    
     "phytormc.color.gradient": "<gradient:#17C3E1:#2BC8E3:#3CCCE5:#5CD5EA:#83DFEF:0>",
-
     "phytormc.network.duels.name": "Phytor Duels",
     "phytormc.network.practice.name": "Phytor Practice",
     "phytormc.network.sg.name": "Phytor Survival Games",
     "phytormc.network.tales.name": "Tales of Phytor",
-
     "phytormc.network.notification.voicechat": "{phytormc.color.gradient}<bold>VOICE CHAT » <reset><white>To keep our players, including yourself engaged with other players. We recommend that you install <hover:show_text:'{phytormc.color.gradient}Click to download Simple Voice Chat'><click:open_url:https://modrinth.com/plugin/simple-voice-chat/versions>{phytormc.color.gradient}<underlined>Simple Voice Chat</click></hover><white>.",
     "phytormc.network.notification.voicechat.verification": "{phytormc.color.gradient}<bold>VOICE CHAT » <reset><white>Thank you for using {phytormc.color.gradient}Simple Voice Chat<reset>! To moderate our players, we require you to verify your account. To get started, run the command <hover:show_text:'{phytormc.color.gradient}Click to verify your account!'><click:suggest_command:/verify>{phytormc.color.gradient}<underlined>/verify</click></hover><white> to start the verification process.",
-
     "phytormc.network.notification.broadcast.1": "{phytormc.color.gradient}<bold>DONATION » <reset><white>Thank you for playing in {phytormc.color.gradient}Closed Alpha<white>! If you want to help us keep the server running, please consider purchasing <hover:show_text:'{phytormc.color.gradient}Click to visit our store!'><click:open_url:https://phytormc.com/store><#FFFFFF>{phytormc.unicode.ranks.acolyte}</click></hover><reset><white> for {phytormc.color.gradient}$11.99/month<white>.",
     "phytormc.network.notification.broadcast.2": "{phytormc.color.gradient}<bold>DISCORD » <reset><white>Interested in the community? Join our <hover:show_text:'{phytormc.color.gradient}Click to join our discord!'><click:open_url:https://discord.gg/wMJVxNuCVT>{phytormc.color.gradient}<underlined>Discord</click></hover><reset><white>!",
     "phytormc.network.notification.broadcast.3": "{phytormc.color.gradient}<bold>IMPORTANT » <reset><white>Toxicity / Cheating / Doxxing / Discrimination / Harassing players is strictly prohibited! If you ever see a player breaking rules, please report them with <hover:show_text:'{phytormc.color.gradient}Click to report a player!'><click:suggest_command:/report>{phytormc.color.gradient}<underlined>/report</click></hover><reset><white>!",
-
     "phytormc.network.scoreboard.title": "{phytormc.color.gradient}<bold>PHYTOR NETWORK</bold>",
     "phytormc.network.scoreboard.battle_pass.title": "<white>Battle Pass:<white> {phytormc.color.gradient}Lvl %phytor_player_battle_pass_level% <dark_gray>(%phytor_player_battle_pass_xp% XP)</dark_gray>",
     "phytormc.network.scoreboard.battle_pass.progression_bar": "<white>%phytor_player_battle_pass_progression%",
     "phytormc.network.scoreboard.name": "<white>{phytormc.unicode.phytor_logo_blue.small} Name:<white> {phytormc.color.gradient}%phytor_player_rank%",
     "phytormc.network.scoreboard.gems": "<white>{phytormc.unicode.phytor_gem.small} Phytor Gems:<white> {phytormc.color.gradient}%phytor_player_gems%",
     "phytormc.network.scoreboard.ip": "<font:phytor:retro>{phytormc.color.gradient}PHYTOR.GG",
-
     "phytormc.network.party.prefix.error": "<red><bold>PARTY »<reset><red>",
     "phytormc.network.party.prefix.warning": "<yellow><bold>PARTY »<reset><yellow>",
     "phytormc.network.party.prefix.success": "{phytormc.color.gradient}<bold>PARTY »<reset>",
-
     "phytormc.network.party.invited": "{phytormc.network.party.prefix.success} You have been invited to join {phytormc.color.gradient}<player><reset>'s party!<br>This invitation will expire in {phytormc.color.gradient}5 minutes<reset>.<br><hover:show_text:'{phytormc.color.gradient}Click to accept the invitation!'><click:run_command:'/party accept <player>'><green>(Accept Invitation)</click></hover> <hover:show_text:'{phytormc.color.gradient}Click to deny the invitation!'><click:run_command:'/party deny <player>'><red>(Deny Invitation)</click></hover>",
     "phytormc.network.party.reconnected": "{phytormc.network.party.prefix.success} {phytormc.color.gradient}<player><reset> has reconnected to the network!",
     "phytormc.network.party.disbanded.disconnect": "{phytormc.network.party.prefix.error} {phytormc.color.gradient}<player><reset> has disconnected from the network! Therefore, the party has been disbanded!",
@@ -118,7 +105,6 @@
     "phytormc.network.party.invitation.accepted": "{phytormc.network.party.prefix.success} You have accepted <inviter>'s party invitation!",
     "phytormc.network.party.joined": "{phytormc.network.party.prefix.success} {phytormc.color.gradient}<player><reset> has joined the party!",
     "phytormc.network.party.list_members": "<green>Party Members:",
-
     "phytormc.gui.skins.head": "Helmet",
     "phytormc.gui.skins.chestplate": "Chestplate",
     "phytormc.gui.skins.leggings": "Leggings",
@@ -140,13 +126,11 @@
     "phytormc.gui.skins.kill_effects": "Kill Effects",
     "phytormc.gui.skins.hats": "Hats",
     "phytormc.gui.skins.aura": "Aura Effects",
-
     "phytormc.gui.generic.previous_page": "Previous Page",
     "phytormc.gui.generic.next_page": "Next Page",
     "phytormc.gui.generic.back": "Go Back",
     "phytormc.gui.generic.exit": "Exit",
     "phytormc.gui.generic.shop": "Shop",
-
     "phytormc.gui.cosmetic.skins": "Your Locker",
     "phytormc.gui.cosmetic.companions": "Pets",
     "phytormc.gui.cosmetic.aura_effects": "Aura Effects",
@@ -157,7 +141,13 @@
     "phytormc.gui.cosmetic.action.equip": "<yellow><bold>LEFT-CLICK<reset><gray> to equip this cosmetic.",
     "phytormc.gui.cosmetic.action.unequip": "<yellow><bold>LEFT-CLICK<reset><gray> to unequip this cosmetic.",
     "phytormc.gui.cosmetic.action.unequip.shift": "<yellow><bold>SHIFT-CLICK<reset><gray> to unequip this cosmetic.",
-
+    "phytormc.gui.game_selector.royale": "{phytormc.color.gradient}Phytor Royale",
+    "phytormc.gui.game_selector.duels": "{phytormc.color.gradient}Phytor Duels",
+    "phytormc.gui.game_selector.practice": "{phytormc.color.gradient}Phytor Practice",
+    "phytormc.gui.game_selector.sg": "{phytormc.color.gradient}Phytor Survival Games",
+    "phytormc.gui.game_selector.tales": "{phytormc.color.gradient}Tales of Phytor",
+    "phytormc.gui.game_selector.league": "{phytormc.color.gradient}The Phytor Leagues",
+    "phytormc.gui.game_selector.join": "<green><bold>CLICK TO JOIN",
     "phytormc.gui.battlepass.rewards": "{phytormc.color.gradient}Tier #<tier>",
     "phytormc.gui.battlepass.remaining": "<gray>You need {phytormc.color.gradient}<remaining> <reset><gray>more XP to claim this tier.",
     "phytormc.gui.battlepass.unlocked": "<green>You've unlocked this tier!",
@@ -169,7 +159,6 @@
     "phytormc.gui.battlepass.rewards.crates.legendary": "<gray>Receive a <#E5B72B>Legendary Crate <gray>key that you can use to unlock a random <#E5B72B>Legendary Cosmetic<gray>.",
     "phytormc.gui.battlepass.rewards.crates.mythical": "<gray>Receive a <#FF4654>Mythical Crate <gray>key that you can use to unlock a random <#FF4654>Mythical Cosmetic<gray>.",
     "phytormc.gui.battlepass.rewards.crates.unobtainable": "<gray>Receive an <#FF6A00>Unobtainable Crate <gray>key that you can use to unlock a random <#FF6A00>Unobtainable Cosmetic<gray>.",
-
     "phytormc.royale.name": "Phytor Royale",
     "phytormc.royale.leaderboard.deaths": "<white>Deaths: {phytormc.color.gradient}%phytor_royale_deaths%",
     "phytormc.royale.leaderboard.coins": "<white>Royale Coins: {phytormc.color.gradient}%phytor_royale_coins%",
@@ -178,7 +167,6 @@
     "phytormc.royale.leaderboard.kills": "<white>Kills: {phytormc.color.gradient}%phytor_royale_kills%",
     "phytormc.royale.leaderboard.level": "<white>Level: {phytormc.color.gradient}%phytor_royale_levels%",
     "phytormc.royale.leaderboard.progression": "<white>Progress: {phytormc.color.gradient}%phytor_royale_progression%",
-
     "phytormc.items.battle_pass_hotbar.name": "{phytormc.color.gradient}Battle Pass",
     "phytormc.items.cosmetic_hotbar.name": "{phytormc.color.gradient}Your Cosmetics",
     "phytormc.items.cosmetic_hotbar.lore": "<gray>Cosmetic Lore",
@@ -190,10 +178,9 @@
     "phytormc.items.shop_hotbar.lore": "<gray>Shop Lore",
     "phytormc.items.game_selector_hotbar.name": "{phytormc.color.gradient}Game Selector",
     "phytormc.items.game_selector_hotbar.lore": "<gray>Game Selector",
+    "phytormc.items.game_selector_hotbar.disabled": "<red><bold>UH OH »<reset><red>This gamemode is currently disabled!",
     "phytormc.items.skins_hotbar.name": "{phytormc.color.gradient}Your Locker",
     "phytormc.items.skins_hotbar.lore": "<gray>Skins Lore",
-
     "phytormc.items.halo.name": "<gold>Apollo's Halo",
     "phytormc.items.halo.lore": "<gray>A halo that glows with the power of <gold>Apollo<gray>.<br><br><dark_gray>Part of the Apollo Cosmetic Collection."
-
 }
