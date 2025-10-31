@@ -136,6 +136,10 @@
     "phytormc.gui.skins.mace": "Mace Skin",
     "phytormc.gui.skins.totem": "Totem Skin",
     "phytormc.gui.skins.elytra": "Elytra Skin",
+    "phytormc.gui.skins.pets": "Pets",
+    "phytormc.gui.skins.kill_effects": "Kill Effects",
+    "phytormc.gui.skins.hats": "Hats",
+    "phytormc.gui.skins.aura": "Aura Effects",
 
     "phytormc.gui.generic.previous_page": "Previous Page",
     "phytormc.gui.generic.next_page": "Next Page",
