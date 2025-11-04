@@ -18,6 +18,8 @@
     "phytormc.unicode.battlepass.progress.end.half": "<font:phytor:ui>\uA017</font>",
     "phytormc.unicode.battlepass.progress.end.empty": "<font:phytor:ui>\uA018</font>",
     "phytormc.unicode.battlepass.progress.empty": "<font:phytor:ui>\uA019</font>",
+    "phytormc.unicode.gui.royale.merchant": "<white><font:lodestone:gui>\uA001</font></white>",
+    "phytormc.unicode.gui.royale.upgrade_anvil": "<white><font:lodestone:gui>\uA002</font></white>",
     "phytormc.unicode.gui.cosmetic.locker": "<white><font:phytor:gui>\uA001</font></white>",
     "phytormc.unicode.gui.cosmetic.browser": "<white><font:phytor:gui>\uA002</font></white>",
     "phytormc.unicode.gui.battlepass": "<white><font:phytor:gui>\uA003</font></white>",
