@@ -197,4 +197,8 @@
     "phytormc.royale.items.golden_steak.lore": "<gray>A gold coated steak that grants you <aqua>10 Shield<gray>.",
     "phytormc.royale.items.golden_apple": "<gold>Golden Apple",
     "phytormc.royale.items.golden_apple.lore": "<gray>A gold coated apple that grants you <aqua>4 Shield<gray>.",
+    "phytormc.royale.items.impulse_grenade": "<aqua>Impact Charge",
+    "phytormc.royale.items.impulse_grenade.lore": "<gray>A throwable charge that will explode on impact.",
+    "phytormc.royale.items.jump_pad": "<aqua>Jump Pad",
+    "phytormc.royale.items.jump_pad.lore": "<gray>A throwable pad that will deploy a jump pad upon impact."
 }
