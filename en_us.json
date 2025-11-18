@@ -200,5 +200,9 @@
     "phytormc.royale.items.impulse_grenade": "<aqua>Impact Charge",
     "phytormc.royale.items.impulse_grenade.lore": "<gray>A throwable charge that will explode on impact.",
     "phytormc.royale.items.jump_pad": "<aqua>Jump Pad",
-    "phytormc.royale.items.jump_pad.lore": "<gray>A throwable pad that will deploy a jump pad upon impact."
+    "phytormc.royale.items.jump_pad.lore": "<gray>A throwable pad that will deploy a jump pad upon impact.",
+    "phytormc.royale.items.grappler": "<gold>Grappler",
+    "phytormc.royale.items.grappler.lore": "<gray>A modified crossbow that will pull you towards your desired target.",
+    "phytormc.royale.items.grappler_ammo": "<gold>Grappler Ammo",
+    "phytormc.royale.items.grappler_ammo.lore": "<gray>A modified arrow that can be used to load a <gold>Grappler"
 }
