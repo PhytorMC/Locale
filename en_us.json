@@ -204,5 +204,9 @@
     "phytormc.royale.items.grappler": "<gold>Grappler",
     "phytormc.royale.items.grappler.lore": "<gray>A modified crossbow that will pull you towards your desired target.",
     "phytormc.royale.items.grappler_ammo": "<gold>Grappler Ammo",
-    "phytormc.royale.items.grappler_ammo.lore": "<gray>A modified arrow that can be used to load a <gold>Grappler"
+    "phytormc.royale.items.grappler_ammo.lore": "<gray>A modified arrow that can be used to load a <gold>Grappler",
+    "phytormc.royale.items.rock_item": "Rock",
+    "phytormc.royale.items.rock_item.lore": "<gray>A throwable item that deals knockback to enemies!",
+    "phytormc.royale.items.pocket_tower": "Pocket Tower",
+    "phytormc.royale.items.pocket_tower.lore": "<gray>A throwable item that automatically builds a fort!"
 }
