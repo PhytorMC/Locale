@@ -175,6 +175,8 @@
     "phytormc.items.game_selector_hotbar.disabled": "<red><bold>UH OH »<reset><red>This gamemode is currently disabled!",
     "phytormc.items.skins_hotbar.name": "{phytormc.color.gradient}Your Locker",
     "phytormc.items.skins_hotbar.lore": "<gray>Skins Lore",
+    "phytormc.items.settings_hotbar.name": "{phytormc.color.gradient}Your Settings",
+    "phytormc.items.settings_hotbar.lore": "<gray>Settings Lore",
     "phytormc.items.halo.name": "<gold>Apollo's Halo",
     "phytormc.items.halo.lore": "<gray>A halo that glows with the power of <gold>Apollo<gray>.<br><br><dark_gray>Part of the Apollo Cosmetic Collection.",
     "phytormc.royale.name": "Phytor Royale",
@@ -194,5 +196,5 @@
     "phytormc.royale.items.golden_steak": "<gold>Golden Steak",
     "phytormc.royale.items.golden_steak.lore": "<gray>A gold coated steak that grants you <aqua>10 Shield<gray>.",
     "phytormc.royale.items.golden_apple": "<gold>Golden Apple",
-    "phytormc.royale.items.golden_apple.lore": "<gray>A gold coated apple that grants you <aqua>4 Shield<gray>."
+    "phytormc.royale.items.golden_apple.lore": "<gray>A gold coated apple that grants you <aqua>4 Shield<gray>.",
 }
